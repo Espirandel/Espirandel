@@ -1,7 +1,7 @@
 <h2 align='center'> Hello World 👋</h2>
 
 <div id='badges' align='center'>
-    <a href='https://www.instagram.com/lai_sprndl.f?r=nametag' target="_blank">
+    <a href='https://www.instagram.com/lai_sprndl/' target="_blank">
       <img src='instagram_icon.png' style='width:40px'>
       <img src='instagramtxt.png' style='width:100px'>
     </a>
