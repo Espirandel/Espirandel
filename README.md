@@ -36,6 +36,7 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg' style='width:80px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg' style='width:80px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' style='width:80px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg' style='width:80px'>
 </div>
 <h2></h2>
 
