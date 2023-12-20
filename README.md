@@ -27,7 +27,6 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' style='width:80px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' style='width:80px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg' style='width:80px'>
-  <br>
   <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' style='width:80px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' style='width:80px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg' style='width:80px'>
@@ -37,10 +36,11 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg' style='width:80px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg' style='width:80px'>
 </div>
+<h2></h2>
 
 <div id='badges' align='center'>
     <a href='https://www.instagram.com/lai_sprndl/' target="_blank">
-      <img src='instagram_icon.png.png' style='width:40px'>
+      <img src='instagram_icon.png.png' style='width:50px'>
       <img src='instagramtxt.png.png' style='width:100px'>
     </a>
 </div>
