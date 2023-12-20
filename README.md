@@ -1,12 +1,5 @@
 <h2 align='center'> Hello World 👋</h2>
 
-<div id='badges' align='center'>
-    <a href='https://www.instagram.com/lai_sprndl/' target="_blank">
-      <img src='instagram_icon.png' style='width:40px'>
-      <img src='instagramtxt.png' style='width:100px'>
-    </a>
-</div>
-
 <h2></h2>
 
 <div name='image' align='center'>
@@ -43,4 +36,11 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg' style='width:80px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg' style='width:80px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg' style='width:80px'>
+</div>
+
+<div id='badges' align='center'>
+    <a href='https://www.instagram.com/lai_sprndl/' target="_blank">
+      <img src='instagram_icon.png.png' style='width:40px'>
+      <img src='instagramtxt.png.png' style='width:100px'>
+    </a>
 </div>
