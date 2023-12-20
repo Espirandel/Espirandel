@@ -1,4 +1,4 @@
-<h2 align='center'> Hello World 👋 I'm Laura Espirandel!</h2>
+<h2 align='center'> Hello World 👋</h2>
 
 <div id='badges' align='center'>
     <a href='https://www.instagram.com/lai_sprndl.f?r=nametag' target="_blank">
