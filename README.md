@@ -20,7 +20,7 @@
 
 <h2></h2>
 
-### 🛠️ Languages and Tools :
+### 🛠️ My Languages and Tools :
 
 <div name='language_icons'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' style='width:80px'>
