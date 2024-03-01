@@ -10,15 +10,15 @@
 
 ### 👩‍💻 About Me : 
 
-↪🦎 I'm a young brazilian developer. 
+↪️🦎 I'm a young brazilian🇧🇷 developer. 
 
-↪💻 I’m currently working as an intern dev looking for experience in backend and frontend. 
+↪️💻 I’m currently working as an intern dev looking for experience in backend and frontend. 
 
-↪🔱 I try to learn and practice coding ​​whenever I can.
+↪️🔱 I try to learn and practice coding ​​whenever I can.
 
-↪⚡ Fun fact: I started coding when I was 13!
+↪️⚡ Fun fact: I started coding when I was 13!
 
-↪🚀 Programming is my hobby and my job! 😁
+↪️🚀 Programming is my hobby and my job! 😁
 
 <h2></h2>
 
