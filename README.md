@@ -18,7 +18,7 @@
 
 ↪️⚡ Fun fact: I started coding when I was 13!
 
-↪️🚀 Programming is my hobby and my job! 😁
+↪️🚀 Programming is my job and also my hobby! 😁
 
 <h2></h2>
 
