@@ -16,9 +16,7 @@
 
 ↪️🔱 I try to learn and practice coding ​​whenever I can.
 
-↪️⚡ Fun fact: I started coding when I was 13!
-
-↪️🚀 Programming is my job and also my hobby! 😁
+↪️🚀 Fun fact: I started coding when I was 13!
 
 <h2></h2>
 
