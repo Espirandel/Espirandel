@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me : 
 
-↪️🦎 I'm a young brazilian🇧🇷 developer. 
+↪️🦎 I'm a young brazilian 🇧🇷 developer. 
 
 ↪️💻 I’m currently working as an intern dev looking for experience in backend and frontend. 
 
