@@ -23,15 +23,15 @@
 ### 🛠️ My Languages and Tools :
 
 <div name='language_icons'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' style='width:50px'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' style='width:50px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' style='width:50px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' style='width:50px'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg' style='width:50px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' style='width:50px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg' style='width:50px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg' style='width:50px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' style='width:50px'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg' style='width:50px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' style='width:50px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' style='width:50px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg' style='width:50px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg' style='width:50px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' style='width:50px'>
 </div>
