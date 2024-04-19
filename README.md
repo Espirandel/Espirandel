@@ -1,7 +1,5 @@
 <h1 align='center'> Hello World 👋</h1>
 
-<h2></h2>
-
 <div name='image' align='center'>
   <img src='haunter.gif' style='margin-bottom:100px'>
 </div>
