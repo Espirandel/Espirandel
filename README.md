@@ -1,10 +1,12 @@
+
 <h1 align='center'> Hello World 👋</h1>
 
-<div name='image' align='center'>
-  <img src='haunter.gif' style='margin-bottom:100px'>
-</div>
+  <img
+    align="right"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Espirandel&theme=dark&hide_border=false"
+    alt="Github Stats"
+  />
 
-<h2></h2>
 
 ###  About Me 👩‍💻 
 
@@ -23,14 +25,3 @@
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,react,angular,python,discordjs,django" />
   </a>
 </p>
-
-<h2></h2>
-
-### My Social Media ✨
-
-<div id='badges' align='center'>
-    <a href='https://www.instagram.com/lai_sprndl/' target="_blank">
-      <img src='instagram_icon.png.png' style='width:50px'>
-      <img src='instagramtxt.png.png' style='width:100px'>
-    </a>
-</div>
