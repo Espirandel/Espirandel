@@ -7,7 +7,6 @@
     alt="Github Stats"
   />
 
-
 ###  About Me 👩‍💻 
 
 🦎 I'm a young brazilian 🇧🇷 developer. 
